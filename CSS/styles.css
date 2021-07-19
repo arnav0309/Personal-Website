@@ -1,0 +1,87 @@
+body{
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E
+
+
+}
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+   color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 60px;
+}
+.middle-container{
+padding-top: 40px;
+}
+.bottom-container{
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+
+  bottom: 290px;
+
+}
+hr{
+
+  border-top-style: dotted;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-width: 10px;
+  border-color: grey;
+  width:9%;
+  margin: 100px auto;
+}
+.my-photo{
+  border-radius: 50%;
+}
+a{
+  color: #11999E;
+}
+P{
+  padding-top: 60PX;
+}
+.btn {
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: Arial;
+  color: white;
+  font-size: 21px;
+  background: #66BFBF;
+  padding: 5px 20px 10px 20px;
+  border: solid #66BFBF 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  text-decoration: none;
+}
