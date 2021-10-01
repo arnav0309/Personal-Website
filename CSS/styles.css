@@ -9,14 +9,6 @@ body {
 
  position: fixed;
 }
-.header .caption {
-    text-align: center;
-    color: #fff;
-    margin-top: 50px;
-}
-.container,{
-  font-size: 20px;
-
 }
 .navbar-brand{
     font-size: 23px;
